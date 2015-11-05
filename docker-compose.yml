@@ -1,0 +1,4 @@
+documentation:
+  container_name: documentation
+  image: jrwthll/documentation-dockerfiles:1.3
+  ports: 80
